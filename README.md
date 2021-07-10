@@ -9,3 +9,7 @@ In my test case it's able to detect moderete to severe chest x ray scan and able
 Training data from a single make (model) machine is not accurate with other make (models) of the x ray machine. 
 
 Use it for Education purpose only. 
+
+<B> ACCURACY </B>
+<p> Accuracy is over <b>95%</b> </p>
+<p> Val Accuracy is over<b> 90% </b></p>
